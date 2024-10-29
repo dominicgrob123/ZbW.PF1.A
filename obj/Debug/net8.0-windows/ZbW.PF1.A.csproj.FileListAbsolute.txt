@@ -1,0 +1,17 @@
+D:\code\mycode\ZbW.PF1.A\bin\Debug\net8.0-windows\ZbW.PF1.A.exe
+D:\code\mycode\ZbW.PF1.A\bin\Debug\net8.0-windows\ZbW.PF1.A.deps.json
+D:\code\mycode\ZbW.PF1.A\bin\Debug\net8.0-windows\ZbW.PF1.A.runtimeconfig.json
+D:\code\mycode\ZbW.PF1.A\bin\Debug\net8.0-windows\ZbW.PF1.A.dll
+D:\code\mycode\ZbW.PF1.A\bin\Debug\net8.0-windows\ZbW.PF1.A.pdb
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.A1_2_1.resources
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.csproj.GenerateResource.cache
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.AssemblyInfoInputs.cache
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.AssemblyInfo.cs
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.csproj.CoreCompileInputs.cache
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.dll
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\refint\ZbW.PF1.A.dll
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.pdb
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.genruntimeconfig.cache
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ref\ZbW.PF1.A.dll
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ZbW.PF1.A.A1_2.A1_2_2.resources
