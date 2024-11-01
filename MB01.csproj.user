@@ -13,5 +13,11 @@
     <Compile Update="A1_2\A1_2_4cs.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="A1_2\A1_2_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="A2_1\A2_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>
