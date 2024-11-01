@@ -16,3 +16,5 @@ D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\ref\MB01.dll
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A1_2_1.resources
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A1_2_2.resources
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A1_2.A1_2_3.resources
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A1_2.A1_2_4cs.resources
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.sourcelink.json
