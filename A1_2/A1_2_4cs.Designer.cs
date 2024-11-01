@@ -86,9 +86,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(12, 426);
             label2.Name = "label2";
-            label2.Size = new Size(38, 15);
+            label2.Size = new Size(53, 15);
             label2.TabIndex = 1;
-            label2.Text = "label1";
+            label2.Text = "Position:";
             // 
             // A1_2_4cs
             // 

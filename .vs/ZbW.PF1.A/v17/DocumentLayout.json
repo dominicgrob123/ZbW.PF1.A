@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|d:\\code\\mycode\\zbw.pf1.a\\a1_2\\a1_2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|D:\\code\\mycode\\ZbW.PF1.A\\a1_2\\a1_2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|d:\\code\\mycode\\zbw.pf1.a\\a1_2\\a1_2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|D:\\code\\mycode\\ZbW.PF1.A\\a1_2\\a1_2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|d:\\code\\mycode\\zbw.pf1.a\\a1_2\\a1_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|D:\\code\\mycode\\ZbW.PF1.A\\a1_2\\a1_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AAFC3837-CA31-4771-B0AA-CAAC13D5C70E}|MB01.csproj|solutionrelative:a1_2\\a1_2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -86,8 +86,7 @@
               "ToolTip": "D:\\code\\mycode\\ZbW.PF1.A\\A1_2\\A1_2_3.cs [Design]",
               "RelativeToolTip": "A1_2\\A1_2_3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:52:35.164Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T19:52:35.164Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "A1_2\\A1_2_1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:51:35.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:51:35.69Z"
             },
             {
               "$type": "Document",
@@ -111,8 +109,7 @@
               "ToolTip": "D:\\code\\mycode\\ZbW.PF1.A\\A1_2\\A1_2_2.cs [Design]",
               "RelativeToolTip": "A1_2\\A1_2_2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:46:01.279Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T19:46:01.279Z"
             },
             {
               "$type": "Document",
@@ -137,8 +134,7 @@
               "RelativeToolTip": "A1_2\\A1_2_2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:41:43.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:41:43.58Z"
             },
             {
               "$type": "Document",
@@ -149,8 +145,7 @@
               "ToolTip": "D:\\code\\mycode\\ZbW.PF1.A\\A1_2\\A1_2_1.cs [Design]",
               "RelativeToolTip": "A1_2\\A1_2_1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:42:41.866Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T19:42:41.866Z"
             },
             {
               "$type": "Document",
@@ -162,8 +157,7 @@
               "RelativeToolTip": "A1_2\\A1_2_2.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:40:51.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:40:51.403Z"
             },
             {
               "$type": "Document",
@@ -175,8 +169,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T19:37:36.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T19:37:36.62Z"
             }
           ]
         }
