@@ -25,5 +25,8 @@
     <Compile Update="A2_1\A2_1_3.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="MB02\MB02\A3_1\A3_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

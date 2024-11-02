@@ -22,3 +22,4 @@ D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A1_2.A1_2_5.resources
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A2_1.A2_1_1.resources
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A2_1.A2_1_2.resources
 D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB01.A2_1.A2_1_3.resources
+D:\code\mycode\ZbW.PF1.A\obj\Debug\net8.0-windows\MB02.Form1.resources
