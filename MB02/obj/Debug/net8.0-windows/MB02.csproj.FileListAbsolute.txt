@@ -19,3 +19,8 @@ D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A3_1.A3_1_6.res
 D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A4_1.A4_1_4.resources
 D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A4_2.A4_2_1.resources
 D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A4_2.A4_2_2.resources
+D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A4_2.A4_2_3.resources
+D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A4_2.A4_2_4.resources
+D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A5_1.A5_1_1.resources
+D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A5_1.A5_1_2.resources
+D:\code\mycode\ZbW.PF1.A\MB02\MB02\obj\Debug\net8.0-windows\MB02.A5_1.A5_1_3.resources
