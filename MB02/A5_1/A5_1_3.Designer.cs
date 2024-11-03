@@ -28,12 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             panel1 = new Panel();
             panel2 = new Panel();
             trackBar1 = new TrackBar();
             LblLeben = new Label();
             LblPunkte = new Label();
             LblZiel = new Label();
+            timer1 = new System.Windows.Forms.Timer(components);
+            CmdStart = new Button();
             ((System.ComponentModel.ISupportInitialize)trackBar1).BeginInit();
             SuspendLayout();
             // 
@@ -44,6 +47,8 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(20, 20);
             panel1.TabIndex = 0;
+            panel1.Visible = false;
+            panel1.LocationChanged += panel1_LocationChanged;
             // 
             // panel2
             // 
@@ -91,12 +96,29 @@
             LblZiel.TabIndex = 5;
             LblZiel.Text = "Ziel:";
             // 
+            // timer1
+            // 
+            timer1.Interval = 1;
+            timer1.Tick += timer1_Tick;
+            // 
+            // CmdStart
+            // 
+            CmdStart.Font = new Font("Segoe UI", 36F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            CmdStart.Location = new Point(146, 177);
+            CmdStart.Name = "CmdStart";
+            CmdStart.Size = new Size(166, 126);
+            CmdStart.TabIndex = 6;
+            CmdStart.Text = "Start";
+            CmdStart.UseVisualStyleBackColor = true;
+            CmdStart.Click += CmdStart_Click;
+            // 
             // A5_1_3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(255, 128, 0);
             ClientSize = new Size(484, 461);
+            Controls.Add(CmdStart);
             Controls.Add(LblZiel);
             Controls.Add(LblPunkte);
             Controls.Add(LblLeben);
@@ -119,5 +141,7 @@
         private Label LblLeben;
         private Label LblPunkte;
         private Label LblZiel;
+        private System.Windows.Forms.Timer timer1;
+        private Button CmdStart;
     }
 }
